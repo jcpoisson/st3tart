@@ -204,7 +204,7 @@ class S3_HYDRO_DATA:
 s3data = S3_HYDRO_DATA()
 
 # set api login/passwd
-s3data.set_api_user('jpoisson', 'millencolin')
+s3data.set_api_user('xxxxxxxxx', 'xxxxxxxxxx')
 
 # download data
 start_date = dt.datetime(2022, 6, 1)
