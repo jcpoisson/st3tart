@@ -7,7 +7,7 @@ This tool allow to build WSH over river from standard L2 S3 products by performi
 3. Build th WSH for the concerned zone (the built WSH is dedicated for hydro, not for other surfaces)
 4. The tool can delete the downloaded ptoduct
 
-The tool is provided in 2 different format:
+The tool is provided in 2 different formats:
 - a jupyter notebook
 - a simple python script
 
