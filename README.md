@@ -1,7 +1,7 @@
 # st3tart
 This repository provide a tools for St3TART ESA project.
 
-This tool allow to build WSH over river from standard L2 S3 products by performing:
+This tool allows to build WSH (Water Surface Height) over rivers from standard L2 Sentinel-3 STM products. The following actions are performed:
 1. Download S3 data corresponding to a sqare area around a specified coordinate (lon / lat) from the Scihub
 2. Unzip the product and read the NetCDF
 3. Build th WSH for the concerned zone (the built WSH is dedicated for hydro, not for other surfaces)
